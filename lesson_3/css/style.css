@@ -1,0 +1,38 @@
+* {
+  color: rgb(84, 84, 84);
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 30px;
+}
+
+.header__item > a {
+  text-decoration: none;
+}
+
+.header__list * {
+  color: blue;
+}
+
+.strength__advice-title ~ ol {
+  color: rgb(248, 38, 38);
+}
+
+.damage__text_mark {
+  color: rgb(0, 37, 224);
+}
+
+.damage__text_mark,
+.time__text_mark {
+  color: rgb(219, 62, 0);
+}
+
+.strength__container > h2 {
+  color: blue;
+}
+
+.strength__advice-item_mark {
+  color:  rgb(147, 1, 1);
+}
